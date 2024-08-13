@@ -5,7 +5,9 @@
 
 [安全管理規定](https://docs.google.com/document/d/1OYoHsGkqzcx1f3XiVpAZP0F8OPXz2flq/edit?usp=sharing&ouid=110981045054554220795&rtpof=true&sd=true)
 
-なお、[このフォルダ](https://drive.google.com/drive/u/0/folders/1kHdaP2xr73o-Ouz8Rol4iuvgHy_mz00E)	に従業員向けの規定等が格納されています
+なお、[このフォルダ](https://drive.google.com/drive/u/0/folders/1kHdaP2xr73o-Ouz8Rol4iuvgHy_mz00E)	に従業員向けの規定等が格納されています。
+
+もしアクセス権を持っていない場合は、ひでシスまで申し出てください。
 
 ## 2. 同意書と誓約書を提出してください
 [従業員情報取扱同意書](https://drive.google.com/file/d/13UdBzPgcnczpK28a4W80nftdn2jqLBuU/view)
